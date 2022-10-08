@@ -1,2 +1,2 @@
 # Calculator_2
-I've developed a well designed calculator with JavaScript
+I developed a well designed calculator with JavaScript
